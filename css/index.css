@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+div {
+    position: static;
+    width: 50%;
+    border: 3px solid firebrick;
+    margin: auto;
+}
